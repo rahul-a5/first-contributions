@@ -7813,6 +7813,7 @@ Stephan Sharpe
 - [Aditya Kamble](https://github.com/adityakamble49)
 - [Deex Iv](https://github.com/DeexIv)
 - [Abir Bin Ayub Khan, AbSak](https://github.com/absak)
+- [Ekpenyong Okpo](https://github.com/okpoEkpenyong)
 - [Micah Hedrick](https://github.com/MH0303)
 - [Nomi Vos](https://github.com/nomi811)
 - [Christopher Chiu](https://github.com/vicehope)
@@ -16452,3 +16453,4 @@ Mário Baltazar
 - [Angelica Omaiye](https://github.com/omaiyea)
 - [Nitin dhemiwal singh](https://github.com/nitindhemiwal)
 - [Shivanhu Kashyap](https://github.com/shivanshu27)
+- [James Kaviyil Jose](https://github.com/jamesjose03)
